@@ -1,0 +1,80 @@
+:root {
+    --bg-far: #0F0F0F6F;
+    --bg-close: #19191955;
+    --text-color: #DADADA;
+    --highlight: #20b000;
+
+    --header-height: 6vh;
+}
+
+* {
+    font-family: 'Montserrat', sans-serif;
+    color: var(--text-color);
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+html {
+    background-image: url("/assets/bg.jpg");
+    background-color: var(--bg-far);
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.nav {
+    text-align: center;
+}
+
+body {
+    background-color: inherit;
+    text-align: center;
+    margin: 0;
+    height: 100%;
+}
+
+h1, h2, h3, p {
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+    color: var(--highlight);
+}
+
+a:hover {
+    color: #00AA00;
+}
+
+iframe {
+    border: 0;
+    max-width: 1104px;
+}
+
+.fab, .fas {
+    color: var(--highlight);
+}
+
+#container {
+    width: 60%;
+    margin: 0 auto;
+    position: relative;
+    padding-bottom: 6rem;
+    min-height: 100%;
+    background-color: var(--bg-close);
+}
+
+#content {
+    margin: 0 auto;
+    font-size: 110%;
+    padding: 15px 5%;
+}
+
+@media only screen and (max-width: 1000px) {
+    #container {
+        width: 100%;
+    }
+}
