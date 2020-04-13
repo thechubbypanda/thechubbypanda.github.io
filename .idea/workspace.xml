@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df65fc8d-77f4-4fdb-b8ca-d170bb332741" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/cp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/me2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/CP.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Montserrat_Regular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/swirly.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/mobile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/stylesheet.css" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,11 +47,17 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -54,18 +67,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resources" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -80,6 +81,16 @@
       <workItem from="1567614203181" duration="1366000" />
       <workItem from="1568392964275" duration="621000" />
       <workItem from="1568395278556" duration="10396000" />
+      <workItem from="1582825644113" duration="8012000" />
+      <workItem from="1583082131032" duration="691000" />
+      <workItem from="1583321510256" duration="25000" />
+      <workItem from="1583586683695" duration="9000" />
+      <workItem from="1583587717844" duration="3980000" />
+      <workItem from="1583767845447" duration="16000" />
+      <workItem from="1583767890666" duration="1238000" />
+      <workItem from="1583868392166" duration="1032000" />
+      <workItem from="1583925315006" duration="31000" />
+      <workItem from="1584028034730" duration="13000" />
     </task>
     <servers />
   </component>
@@ -98,5 +109,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="278" width="432" height="487" key="FileChooserDialogImpl" timestamp="1583083533452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="278" width="432" height="487" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583083533452" />
   </component>
 </project>
