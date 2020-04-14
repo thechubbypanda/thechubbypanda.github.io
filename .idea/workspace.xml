@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df65fc8d-77f4-4fdb-b8ca-d170bb332741" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/cp.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/me.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/me2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/website.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/website.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/CP.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/Montserrat_Regular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/swirly.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/mobile.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/stylesheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,9 +33,6 @@
     <expand />
     <select />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="website" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -49,16 +42,16 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -91,29 +84,34 @@
       <workItem from="1583868392166" duration="1032000" />
       <workItem from="1583925315006" duration="31000" />
       <workItem from="1584028034730" duration="13000" />
+      <workItem from="1586897337493" duration="791000" />
+      <workItem from="1586898140449" duration="436000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="743" y="278" width="432" height="487" key="FileChooserDialogImpl" timestamp="1583083533452">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="743" y="278" width="432" height="487" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583083533452" />
+    <state x="469" y="162" key="SettingsEditor" timestamp="1586898126636">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="469" y="162" key="SettingsEditor/0.0.1920.1054@0.0.1920.1054" timestamp="1586898126636" />
   </component>
 </project>
