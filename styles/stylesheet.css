@@ -33,12 +33,15 @@ header {
 header h1 {
     font-family: 'Montserrat', 'Roboto', sans-serif;
     margin-top: 0;
-    stroke: #1f1f1f;
-    stroke-width: 1px;
 }
 
 a {
     color: var(--green);
+}
+
+#title {
+    padding: 15px;
+    background-color: #1f1f1f8f;
 }
 
 .socials {
