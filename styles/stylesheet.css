@@ -26,7 +26,7 @@ header {
     text-align: center;
     font-size: 2em;
     height: 100%;
-    background: url("../resources/me2.jpg") no-repeat center;
+    /*background: url("../resources/me2.jpg") no-repeat center;*/
     background-size: cover;
 }
 
