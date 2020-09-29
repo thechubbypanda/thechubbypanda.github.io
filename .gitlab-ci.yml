@@ -4,7 +4,7 @@ image: archlinux:latest
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 before_script:
-  - pacman -Sy install pandoc texlive-most make
+  - pacman -Sy pandoc texlive-most make
 pages:
   stage: deploy
   script:
