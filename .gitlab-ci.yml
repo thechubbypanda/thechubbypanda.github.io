@@ -5,6 +5,9 @@ variables:
 pages:
   stage: deploy
   script:
+    - cd cv
+    - make
+    - cd ..
     - mkdir .public
     - cp -r * .public
     - mv .public public
