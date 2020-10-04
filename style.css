@@ -30,9 +30,16 @@ header {
     background-size: cover;
 }
 
-header h1 {
+header h1, header h5 {
     font-family: 'Montserrat', 'Roboto', sans-serif;
-    margin-top: 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header h5 {
+    margin-top: 0.5em;
 }
 
 a {
