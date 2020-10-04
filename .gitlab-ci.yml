@@ -3,13 +3,10 @@
 image: archlinux:latest
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
-before_script:
-  - pacman -Sy --noconfirm pandoc texlive-most make
 pages:
   stage: deploy
   script:
     - cd cv
-    - make
     - cd ..
     - mkdir .public
     - cp -r * .public
